@@ -213,6 +213,8 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Security & Systems
 
+- [LGD-Eval / lgd-gate](https://github.com/LGD-Eval/lgd-gate) - Independent third-party evaluator for AI Agent Skills. 18 dimensions, zero-config, offline-first. Scan, score, and gate any Claude/Cursor/Codex skill before you install it.
+
 - [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/computer-forensics) - Digital forensics analysis and investigation techniques.
 - [file-deletion](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/file-deletion) - Secure file deletion and data sanitization methods.
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
