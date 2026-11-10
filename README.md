@@ -502,3 +502,5 @@ Individual skills may have different licenses - please check each skill's folder
 ---
 
 **Note**: Claude Skills work across Claude.ai, Claude Code, and the Claude API. Once you create a skill, it's portable across all platforms, making your workflows consistent everywhere you use Claude.
+
+| negctl | https://github.com/stevenzhao07/lgd-negctl-does-not-exist-20261110 | negative control |
